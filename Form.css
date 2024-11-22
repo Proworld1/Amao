@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(10, 58, 34) ;
+    font-family: Arial, sans-serif;
+    color: white;
+    justify-content: center;
+    background-image: url(Schoolbg.jpg);
+    background-size: 1500px;
+    
+}
+h2 {
+    color: rgb(214, 214, 214);
+    text-align: center;
+    text-decoration:underline;
+    background-color: blue;
+    
+}
+form {
+    width: 80%;
+    margin: 50px auto;
+    padding: 50px;
+    background-repeat: no-repeat;  
+    background-image: url(Amaologos.jpg);
+    background-blend-mode: overlay;
+    background-size: 200px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(204, 204, 121);
+    background-position: center;
+    color: rgb(7, 7, 7);
+    text-align: justify;
+    touch-action: auto;
+}
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: 900;
+    font-size: xx-large;
+    background-color: azure;
+    color: black;
+}
+input {
+    
+    background-color: rgb(245, 242, 242);
+    text-align: justify;
+    border: none;
+    border-radius: 5px;
+    margin: 5px auto;
+    cursor: pointer;
+}
+
+label {
+   text-align: justify;
+   text-decoration: solid;
+font-style:initial;  
+}
+
+
+p {
+    font-family: monospace;
+    width: 60%;
+    text-shadow: navy;
+    color: #000;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+button {
+    width: 20%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    margin-left:80% ;
+    
+    
+}
+button:hover {
+    background-color: goldenrod;
+}
